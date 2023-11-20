@@ -5,6 +5,4 @@ I would love to try Go, and am actually always looking for new exciting projects
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SpielerNogard)](https://git.io/streak-stats)
 
-[![SpielerNogard's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpielerNogard&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpielerNogard)](https://github.com/anuraghazra/github-readme-stats)
