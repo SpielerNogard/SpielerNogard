@@ -4,3 +4,5 @@ Favorite programming language is currently Python.
 I would love to try Go, and am actually always looking for new exciting projects to spend my time on.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpielerNogard)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpielerNogard)](https://github.com/ryo-ma/github-profile-trophy)
